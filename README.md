@@ -132,16 +132,13 @@ Data preprocessing, feature engineering, model training & pipeline development.
   <img src="https://streak-stats.demolab.com?user=prashan7070&theme=radical&hide_border=true" />
 </div>
 
-### 🏆 Trophies
+### 🏆 Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=prashan7070&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" />
-</div>
-
-### 📈 Contribution Graph
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prashan7070&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=00f5ff&line=7b2ff7&point=ffffff" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-7B2FF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-Frontend-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Cloud-DevOps-00F5FF?style=for-the-badge&logo=amazonaws&logoColor=black" />
 </div>
 
 <!-- ═══════════════ SNAKE ═══════════════ -->
